@@ -95,7 +95,7 @@ tests = [
     "flaky",
     "pytest<8,>=7",
     "pytest-cov",
-    "pytest-docker>=1,<2",
+    "pytest-docker>=1,<4",
     "pytest-lazy-fixture",
     "pytest-mock",
     "pytest-test-utils",
